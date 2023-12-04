@@ -1,14 +1,5 @@
+ipykernel
 opencv-python
 numpy
 matplotlib
-easyocr
-Flask
-
-transformers
-sentencepiece
-protobuf
-
-# En caso de falla 
-!pip install --no-cache-dir transformers sentencepiece
-
-
+pytesseract
